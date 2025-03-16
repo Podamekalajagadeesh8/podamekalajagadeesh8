@@ -46,7 +46,9 @@
 </a> 
 </p>
 
+
 ## My Contributions:
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/podamekalajagadeesh8/podamekalajagadeesh8/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Podamekalajagadeesh8/Podamekalajagadeesh8/output/github-contribution-grid-snake-dark.svg" />
 </div>
+
