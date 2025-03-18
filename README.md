@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jagadeesh</h1>
 <h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=web3 Fullstack+Developer;Open+Source+Contributor;MERN+Stack+Developer%7C;Software+Developer+;Programmer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=web3+Fullstack+Developer;Open+Source+Contributor;MERN+Stack+Developer%7C;Software+Developer+;Programmer" alt="Typing SVG" /></a>
 </h3>
 
 <img align="right" alt="Coding" height="250" width="250" src="https://raw.githubusercontent.com/Naveen-gn/Naveen-gn/main/portfolio.png">
